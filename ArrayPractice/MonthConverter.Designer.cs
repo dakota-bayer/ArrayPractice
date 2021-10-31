@@ -44,6 +44,7 @@ namespace ArrayPractice
             this.btnDisplayMonth.TabIndex = 0;
             this.btnDisplayMonth.Text = "Display Month";
             this.btnDisplayMonth.UseVisualStyleBackColor = true;
+            this.btnDisplayMonth.Click += new System.EventHandler(this.btnDisplayMonth_Click);
             // 
             // txtMonthNumber
             // 
