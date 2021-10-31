@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace ArrayPractice
 {
-    public partial class Form1 : Form
+    public partial class MonthConverter : Form
     {
-        public Form1()
+        public MonthConverter()
         {
             InitializeComponent();
         }
